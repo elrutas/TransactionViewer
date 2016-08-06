@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TransactionViewer</string>
+    <string name="products">Products</string>
+    <string name="transactions">%1s transactions</string>
+    <string name="product_transactions">Transactions for %1s</string>
+
+    <string name="total_amount">Total: %1s GBP</string>
+    <string name="calculating">Calculating…</string>
+</resources>
